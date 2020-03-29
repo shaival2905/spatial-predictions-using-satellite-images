@@ -10,5 +10,5 @@ This repository contains the code and files for CSC 591 Spatial and Temporal Dat
 ## Libraries Used:
 
 
-## How to execute
+## How to execute:
 
