@@ -1,6 +1,8 @@
 # Spatial Predictions using Satellite Images
 This repository contains the code and files for CSC 591 Spatial and Temporal Data Mining Project.
 
+<b><ins>Note:</ins></b> The file model.ipynb is not updated. We will update the file as soon as the final implementation is complete and we submit the project for final submission.
+
 ## Group:
 
 [Karan Dave](mailto:kdave@ncsu.edu) (kdave)<br>
@@ -20,4 +22,4 @@ sklearn<br>
 matplotlib<br>
 
 ## How to execute:
-
+To be updated later.
